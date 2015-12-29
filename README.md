@@ -1,10 +1,10 @@
-Tokyo, Japan
+Awesome Tokyo, Japan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Tokyo, Japan. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Tokyo, Japan. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Tokyo, Japan
+Top 15 programmers in Tokyo, Japan
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Tokyo, Japan.
+These are the 15 most influential programmers in Tokyo, Japan. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Wei Wang [@onevcat](https://github.com/onevcat) (53)
 2. Akira Matsuda [@amatsuda](https://github.com/amatsuda) (39)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. SHIBATA Hiroshi [@hsbt](https://github.com/hsbt) (28)
 15. Takuto Wada [@twada](https://github.com/twada) (27)
 
-You can find the comprehensive statistics at the page for [Tokyo, Japan](http://programmermap.com/area/tokyo-japan) at programmermap.com.
+You can find comprehensive statistics at the page for [Tokyo, Japan](http://programmermap.com/area/tokyo-japan) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [awesome-android-ui](https://twitter.com/wasabeef_jp) (7426)
+2. [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) (5606)
+3. [kaminari](https://github.com/amatsuda/kaminari/wiki) (5075)
+4. [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) (4499)
+5. [c3](c3js.org) (4468)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
